@@ -1,10 +1,17 @@
-BOT-CZ2M-938Q-DBV3
-BOT-TZR5-P2HQ-3ZXU
-BOT-K9L5-WJ64-YD6H
-BOT-SNV4-CD8M-BY87
-BOT-4NAL-QQSN-P8A4
-BOT-7WKK-Q685-74TK
-BOT-XXW3-8CKN-BPH5
-BOT-NPTT-Y5XT-RSFE
-BOT-Y94J-QCS4-PS5C
-BOT-FHN6-267K-C3C3
+{
+  "app_name": "ChatBotApp",
+  "version": "1.0",
+  "keys": {
+    "BOT-CZ2M-938Q-DBV3": {"status": "active", "name": "مستخدم1"},
+    "BOT-TZR5-P2HQ-3ZXU": {"status": "active", "name": "مستخدم2"},
+    "BOT-K9L5-WJ64-YD6H": {"status": "active", "name": "مستخدم3"},
+    "BOT-SNV4-CD8M-BY87": {"status": "active", "name": "مستخدم4"},
+    "BOT-4NAL-QQSN-P8A4": {"status": "active", "name": "مستخدم5"},
+    "BOT-7WKK-Q685-74TK": {"status": "active", "name": "مستخدم6"},
+    "BOT-XXW3-8CKN-BPH5": {"status": "active", "name": "مستخدم7"},
+    "BOT-NPTT-Y5XT-RSFE": {"status": "active", "name": "مستخدم8"},
+    "BOT-Y94J-QCS4-PS5C": {"status": "active", "name": "مستخدم9"},
+    "BOT-FHN6-267K-C3C3": {"status": "active", "name": "مستخدم10"}
+  },
+  "last_update": "2026-01-15"
+}
